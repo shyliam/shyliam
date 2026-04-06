@@ -1,11 +1,11 @@
-<h1 align="center">printf("I'm shyliam\n");
+<h1 align="center">printf(shyliam);
 <h3 align="center">I am actively as a developer and programmer in Turkey.</h3>
 
 Never was taken 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/ege.atkl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ege.atkl" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ege.atkl" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordlookup.com/user/835261339182039080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordlookup.com/user/835261339182039080" height="30" width="40" /></a>
 </p>
 
